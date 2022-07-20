@@ -1,0 +1,12 @@
+<label for="sign"><strong>ጠያቂው ባለሙያ (የስራ/ሂ/መሪ)</strong></label>
+                    <label style="text-align:center;" for="sign1"><strong>የፋቀደው የስራ/ሂ/መሪ (ተወካይ)</strong></label>
+                    <br>
+                     <strong>ሙሉ ስም አስከነ አያት: </strong><input type="text" id="sign">\
+                    
+                    <label for="sign1"><strong>የፋቀደው የስራ/ሂ/መሪ (ተወካይ)</strong></label><br>
+                    <br>
+                    <strong>ሙሉ ስም አስከነ አያት: </strong><input type="text" id="sign1"><br>
+                    <br>
+                    <label for="sign2"><strong>ስምሪት የሰጠው የስራ/ሂ/መሪ (ተወካይ)</strong></label><br>
+                    <br>
+                    <!-- <strong>ሙሉ ስም አስከነ አያት: </strong><input type="text" id="sign2"><br> -->
